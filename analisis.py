@@ -65,3 +65,12 @@ plt.ylabel("Penjualan")
 plt.xticks(rotation=90)
 plt.show()
 
+# Menghitung jumlah data untuk setiap kategori
+category_counts = data['Category'].value_counts()
+
+# Membuat diagram pie
+plt.figure(figsize=(8, 6))
+plt.pie(category_counts, labels=category_counts.index, autopct='%1.1f%%')
+plt.title('Persentase Penjualan Berdasarkan Kategori')
+plt.axis('equal')
+plt.show()
