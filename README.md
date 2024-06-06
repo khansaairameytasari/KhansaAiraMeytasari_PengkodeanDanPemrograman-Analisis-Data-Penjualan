@@ -12,3 +12,4 @@ Cetak Hasil Data Normalisasi
 Analisis dan Visualisasi
 ![Screenshot (1049)](https://github.com/khansaairameytasari/KhansaAiraMeytasari_PengkodeanDanPemrograman-Analisis-Data-Penjualan/assets/166633881/c1a3151b-e81e-4ffe-a69a-318d32e8aee8)
 ![Screenshot (1050)](https://github.com/khansaairameytasari/KhansaAiraMeytasari_PengkodeanDanPemrograman-Analisis-Data-Penjualan/assets/166633881/f7e8bd6c-5317-405f-8829-09a137c55ee8)
+![Screenshot (1052)](https://github.com/khansaairameytasari/KhansaAiraMeytasari_PengkodeanDanPemrograman-Analisis-Data-Penjualan/assets/166633881/18de92e1-017b-4dce-8735-52728e5a38e5)
